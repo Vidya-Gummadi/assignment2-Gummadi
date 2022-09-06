@@ -21,3 +21,16 @@
 *   Kansas City Segway Tours
 
 If you want to know about me click this -->[AboutMe](https://github.com/Vidya-Gummadi/assignment2-Gummadi/blob/main/AboutMe.md)
+
+---
+
+## Creating a Table
+
+>This table gives more information about the best places in the cities
+
+| Name of the City | Location to Visit in City| Amount of Time |
+| --- | --- | ---: |
+| Chicago | Chicago River Architecture | 90 Mins |
+| Kansas | ADOPTION SATURDAY IN PETFINDER PARK | 100 Mins|
+| Texas | Galveston Island | 50 Mins |
+| New york | Niagara Falls | 180 Mins |
