@@ -20,4 +20,4 @@
 *   The Ewing and Muriel Kauffman Memorial Garden
 *   Kansas City Segway Tours
 
-![link to AboutMe](C:\Users\s554047\Documents\GitHub\assignment2-Gummadi\AboutMe.md)
+![link to AboutMe](https://github.com/Vidya-Gummadi/assignment2-Gummadi/blob/main/AboutMe.md)
