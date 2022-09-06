@@ -8,3 +8,10 @@
 2. Take Line 229 bus or line 47 bus.
 3. Then travel to 4525 Oak St, Kansas City, MO 64111.
 4. Which will take approximately 50 mins.
+
+#### Others Locations near to museum.
+*   Kemper Museum of Contemporary Art
+*   Barley Bus Tours
+*   Kansas City Art Institute
+*   The Ewing and Muriel Kauffman Memorial Garden
+*   Kansas City Segway Tours
