@@ -39,7 +39,8 @@ If you want to know about me click this -->[AboutMe](https://github.com/Vidya-Gu
  
 ## Using Pithy Quotes in this section
 
->Instead of worrying about what you cannot control, shift your energy to what you can create written by _Roy T. Bennett, The Light in the Heart_
+>Instead of worrying about what you cannot control, shift your energy to what you can create written by _Roy T. Bennett_
+
 >You've gotta dance like there's nobody watching,
 Love like you'll never be hurt,
 Sing like there's nobody listening,
