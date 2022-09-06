@@ -34,3 +34,13 @@ If you want to know about me click this -->[AboutMe](https://github.com/Vidya-Gu
 | Kansas | ADOPTION SATURDAY IN PETFINDER PARK | 100 Mins|
 | Texas | Galveston Island | 50 Mins |
 | New york | Niagara Falls | 180 Mins |
+
+---
+ 
+## Using Pithy Quotes in this section
+
+>Instead of worrying about what you cannot control, shift your energy to what you can create written by *Roy T. Bennett, The Light in the Heart*
+>You've gotta dance like there's nobody watching,
+Love like you'll never be hurt,
+Sing like there's nobody listening,
+And live like it's heaven on earth wriiten by *William W. Purkey*
