@@ -36,8 +36,7 @@ If you want to know about me click this -->[AboutMe](https://github.com/Vidya-Gu
 | New york | Niagara Falls | 180 Mins |
 
 ---
- 
-## Using Pithy Quotes in this section
+###  Using Pithy Quotes in this section
 >Instead of worrying about what you cannot control, shift your energy to what you can create written by _Roy T. Bennett_
 
 >You've gotta dance like there's nobody watching,
@@ -46,8 +45,7 @@ Sing like there's nobody listening,
 And live like it's heaven on earth wriiten by _William W. Purkey_
 
 ---
-
-## Using Code Fencing in this section
+### Using Code Fencing in this section
 >How to add thumbnail in WordPress on stack overflow
 
 Lets check here for more details <https://stackoverflow.com/questions/64387201/add-thumbnail-support-in-wordpress-theme>
