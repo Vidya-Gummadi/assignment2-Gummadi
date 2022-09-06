@@ -51,8 +51,11 @@ And live like it's heaven on earth wriiten by _William W. Purkey_
 ## Using Code Fencing in this section
 
 >How to add thumbnail in WordPress on stack overflow
+
 Lets check here for more details <https://stackoverflow.com/questions/64387201/add-thumbnail-support-in-wordpress-theme>
+
 ```Let’s say you wanted to use the post thumbnail feature of WordPress, but had a whole archive of posts that would take too much time to go through. For new posts, you can be specific and use the feature as intended. For old posts, you just want to use the first image it finds in the content for the thumbnail, or a default if none present```
+
 Here is the solution <https://css-tricks.com/snippets/wordpress/get-the-first-image-from-a-post/>
 
 
