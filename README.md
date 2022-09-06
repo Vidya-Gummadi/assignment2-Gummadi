@@ -6,6 +6,7 @@
 
 ---
 ## Specifying about the nearest airport from Museum.
+
 1. From kansas City Airport the best way to travel is by bus.
 2. Take Line 229 bus or line 47 bus.
 3. Then travel to 4525 Oak St, Kansas City, MO 64111.
